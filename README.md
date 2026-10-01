@@ -1,2 +1,0 @@
-# VibeForge
-Gemini-only AI coding workspace. Generated source code is stored in Project Files; chat contains prompts and short summaries only. Code and Preview are separate. Project state persists locally.
